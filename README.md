@@ -1,4 +1,4 @@
-## Telegram messenger for Android
+## Wire messenger for Android
 
 [Wire] is a messaging app based on [Telegrame](http://telegrame.org) with a focus on speed and security. It’s superfast, simple and free.
 
