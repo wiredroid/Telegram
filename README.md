@@ -1,8 +1,8 @@
 ## Telegram messenger for Android
 
-[Telegram](http://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
+[Wire] is a messaging app based on [Telegrame](http://telegrame.org) with a focus on speed and security. It’s superfast, simple and free.
 
-This repo contains official [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) source code.
+This repo contains official [Wire App for Android](https://play.google.com/store/apps/details?id=us.pixeljuice.wire) source code.
 
 ### API, Protocol documentation
 
